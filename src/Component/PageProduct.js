@@ -13,7 +13,7 @@ function PageProduct() {
             <div style={{marginTop:'25px'}}>
                 <p className='text-align-center' style={{color:'white', lineHeight:'30%'}}>
                     <p style={{fontSize:'90%', color:'#cab6b6'}}>Selamat Datang,</p><br/>
-                    <p>Outlet CKP Bogor</p>
+                    <p>Outlet CKP Bogorr</p>
                 </p>
             </div>
             <div className='col-md-12' style={{backgroundColor:'white', borderTopLeftRadius:'30px', borderTopRightRadius:"30px", height:'100%', marginTop:'20px'}}>
